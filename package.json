@@ -1,0 +1,17 @@
+{
+  "name": "redux-example",
+  "version": "1.0.0",
+  "description": "vanilla js ver",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "redux": "4.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
